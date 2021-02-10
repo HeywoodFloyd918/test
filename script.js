@@ -10,3 +10,5 @@ btnP.onclick = ()=>{
     count+=2;
     h3.innerHTML = count;
 }
+
+console.log("!");
