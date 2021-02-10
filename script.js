@@ -12,3 +12,4 @@ btnP.onclick = ()=>{
 }
 
 console.log("!");
+console.log("?");
